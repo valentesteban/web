@@ -1,6 +1,6 @@
 hey! this is a website recreated from @benjitaylor. I liked it so I recreated using:
- • NextJS 13
- • TailwindCSS
+ - NextJS 13
+ - TailwindCSS
 
 first, install the dependencies:
 
